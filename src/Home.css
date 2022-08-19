@@ -1,0 +1,36 @@
+.home-div {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px 0;
+}
+
+.home-div img {
+    width: 300px;
+    height: 400px;
+    border-radius: 70px 0 70px 0;
+}
+
+.home-div div {
+    margin: 100px 0;
+    text-align: center;
+    line-height: 3.0rem;
+}
+
+.home-div h6 {
+    color: #08d2e0;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.home-div h5 {
+    color: #0505b4;
+    font-size: 20px;
+    font-weight: 1000;
+    font-family: Tahoma, Courier;
+}
+
+.home-div h2 {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}

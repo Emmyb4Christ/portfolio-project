@@ -1,0 +1,222 @@
+.Skills {
+    width: 100%;
+    height: 100%;
+    background-color: #282829;
+    padding: 50px 0;
+}
+
+.col-1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    line-height: 20px;
+}
+
+.level {
+    width: 200px;
+    height: 5px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 70px;
+}
+
+.Skills h3 {
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.right {
+    width: 198px;
+    height: 5px;
+    border-radius: 5px;
+    background-color: blue;
+    margin-top: 10px;
+}
+
+.css {
+    width: 190px;
+}
+
+.java {
+    width: 130px;
+}
+
+.react {
+    width: 100px;
+}
+
+.node {
+    width: 120px;
+}
+
+.python {
+    width: 70px;
+}
+
+.col-1 img {
+    width: 50px;
+    height: 40px;
+    margin-bottom: -0.5rem;
+    padding-right: 0.5rem;
+    background-color: inherit;
+}
+
+.about {
+    width: 50%;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+.about p {
+    padding: 10px;
+    text-align: justify;
+    line-height: 2.0rem;
+    color: #4b4b4b;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.about a {
+    padding: 5px 10px;
+    border-radius: 50%;
+}
+
+.footer-div {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    padding: 50px 100px;
+    margin-top: 100px;
+}
+
+.contact, .form-div {
+    width: 400px;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 30px 15px;
+    text-align: center;
+}
+.contact h4 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.contact p {
+    text-align: justify;
+    font-size: 16px;
+    color: #4b4b4b;
+    line-height: 2.0rem;
+}
+.contact .social {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.email, .phone {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.form-div {
+    background-color: #1C41B0;
+    color: #fff;
+}
+
+.form-div h4 {
+    color: #d6d0d0;
+    font-size: 18px;
+    font-family: Tahoma, sans-serif;
+    padding-bottom: 15px;
+}
+
+.form-div h2 {
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+textarea {
+    resize: none;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border-bottom: 0.5px solid #FFFFFF;
+    padding-top: 30px;
+}
+
+form::placeholder, textarea::placeholder {
+    color: #FFFFFF;
+    gap: 30px;
+}
+
+form input {
+    margin: 20px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border-bottom: 0.5px solid #FFFFFF;
+    padding: 5px 5px;
+    color: #fff;
+}
+
+input::placeholder {
+    color: #FFFFFF;
+}
+
+button {
+    width: 203px;
+    height: 55px;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 12px;
+    margin-top: 30px;
+    color: #2351DC;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.bottomFooter {
+    background-color: #02020f;
+    height: 100%;
+}
+
+.nameDiv {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.nameDiv div {
+    width: 300px;
+    margin: 30px 10px;
+    height: 3px;
+    border: none;
+    background-color: #FFFFFF;
+}
+
+.nameDiv h3 {
+    padding: 10px 0;
+    font-family: monospace, sans-serif;
+    font-size: 30px;
+}
+
+
+.bottom-social {
+    display: flex;
+    justify-content: center;
+    gap: 10px 30px;
+}
+
+.copyright {
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
