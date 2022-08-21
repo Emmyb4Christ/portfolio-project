@@ -19,6 +19,11 @@ const NavBar = () => {
           <li>Contact</li>
         </a>
       </ul>
+      <div class="hamburger">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </div>
     </div>
   );
 };

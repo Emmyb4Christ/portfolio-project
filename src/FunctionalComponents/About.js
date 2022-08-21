@@ -11,18 +11,10 @@ const About = () => {
         and he enjoys working in a team because, in his opinion, doing so will
         make work easier, faster, and more accurate with few to no mistakes.
       </p>
-      <a
-        href="https://web.facebook.com/tijani.emmanuel.908/"
-        target="_blank"
-        rel="noreferrer"
-      >
+      <a href="https://web.facebook.com/tijani.emmanuel.908/">
         <img src={require("./image/facebook-icon.png")} alt="" width={"30px"} />
       </a>
-      <a
-        href="https://twitter.com/Bamidele_EmmyB"
-        target="_blank"
-        rel="noreferrer"
-      >
+      <a href="https://twitter.com/Bamidele_EmmyB">
         <img src={require("./image/twitter-icon.png")} alt="" width={"30px"} />
       </a>
     </div>

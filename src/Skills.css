@@ -150,6 +150,7 @@ textarea {
     background-color: transparent;
     border-bottom: 0.5px solid #FFFFFF;
     padding-top: 30px;
+    color: #fff;
 }
 
 form::placeholder, textarea::placeholder {

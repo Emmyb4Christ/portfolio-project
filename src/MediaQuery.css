@@ -1,0 +1,69 @@
+@media only screen and (max-width: 410px) {
+    .navBar img {
+      width: 70px;
+      height: 80px;
+    }
+    .home-div {
+        display: block;
+        margin-top: -5.0rem;
+    }
+    .home-div img {
+        width: 180px;
+        height: 170px;
+        margin-top: -6.0rem;
+        border-radius: 30px 0 30px 0;
+    }
+    .home-div h6, .about p, .contact p {
+        font-size: 12px;
+        margin-bottom: -1.0rem;
+    }
+    .home-div h5 {
+        font-size: 14px;
+        margin-bottom: -1.0rem;
+    }
+    .home-div h2 {
+        font-size: 18px;
+        margin-bottom: -2.0rem;
+    }
+    .span {
+        font-size: 10px;
+    }
+    .subHead {
+        margin-top: 1.0rem;
+    } 
+    .col-1 {
+        display: grid;
+        justify-content: center;
+        align-items: center;
+    }
+    .about {
+        width: 100%;
+        padding: 15px;
+    }
+    .footer-div {
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        padding: 1.5rem;
+        margin-top: -2.0rem;
+        padding: 20px;
+    }
+    .form-div {
+        width: 300px;
+        margin: 40px 30px 20px 50px;
+        padding-bottom: 0;
+    }
+.bottomFooter {
+    margin-top: 70px;
+}
+.nameDiv h3 {
+    font-size: 16px;
+}
+.bottomFooter p {
+    font-size: 10px;
+}
+.hamburger {
+    display: block;
+    cursor: pointer;
+}
+  }

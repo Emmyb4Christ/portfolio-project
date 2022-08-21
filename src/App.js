@@ -1,6 +1,8 @@
+import React from "react";
 import "./App.css";
 import "./Home.css";
 import "./Skills.css";
+import "./MediaQuery.css";
 import Home from "./FunctionalComponents/Home";
 import NavBar from "./FunctionalComponents/NavBar";
 import SubHead from "./FunctionalComponents/SubHead";
@@ -23,6 +25,7 @@ function App() {
       <About />
 
       <Footer />
+
       <BottomFooter />
     </div>
   );
